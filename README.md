@@ -1,6 +1,6 @@
 ### Olá! Sou Janaina😃
 
-[![blog](https://www.linkedin.com/in/janaina-d-batista-9ab548288/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/janaina-d-batista-9ab548288/)
 
 ![Janaina GitHub stats](https://github-readme-stats.vercel.app/api?username=janainabatista&show_icons=true&theme=dracula)
 
