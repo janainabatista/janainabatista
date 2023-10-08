@@ -1,9 +1,9 @@
 ### Olá! Sou Janaina 😃
-“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.” – Bill Gates 🚀
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janaina-d-batista-9ab548288/)
 
 ![Janaina GitHub stats](https://github-readme-stats.vercel.app/api?username=janainabatista&show_icons=true&theme=dracula)
-
+“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.” – Bill Gates 🚀
 ### Tecnologias
 <div style=Display:inline_block><br/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
